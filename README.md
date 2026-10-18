@@ -1,6 +1,6 @@
 <div align="center">
 
-# Circuit Builder
+# Circuit Builder: Java to SPICE
 
 ### Describe a circuit in simple text commands and get a simulation-ready SPICE file, built in object-oriented Java
 
