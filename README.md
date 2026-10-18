@@ -9,7 +9,6 @@
 ![NetBeans](https://img.shields.io/badge/IDE-Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![SPICE](https://img.shields.io/badge/Output-SPICE_Netlist-6E4AFF?style=for-the-badge)
 
-*COE318 Object-Oriented Programming · Lab 7*
 
 </div>
 
@@ -193,7 +192,5 @@ java -cp out coe318.lab7.UserMain
 <br/>
 
 <div align="center">
-
-*Built for COE318 Object-Oriented Programming at Toronto Metropolitan University*
 
 </div>
